@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\projects\Snake Game\ConsoleApplication1\ConsoleApplication1\Snake.h(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\projects\Snake Game\ConsoleApplication1\ConsoleApplication1\Snake.h(105,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.cpp
+D:\projects\Snake Game\ConsoleApplication1\ConsoleApplication1\Snake.h(19,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\projects\Snake Game\ConsoleApplication1\ConsoleApplication1\Snake.h(105,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\projects\Snake Game\ConsoleApplication1\Debug\ConsoleApplication1.exe
